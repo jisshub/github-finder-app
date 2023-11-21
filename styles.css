@@ -21,3 +21,8 @@ body {
     padding: 0;
   }
   
+  p {
+    color: red;
+    text-align: center;
+  }
+  
