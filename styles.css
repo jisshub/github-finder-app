@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .card {
+    display: flex;
+    align-items: center;
+    background: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  .card img {
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .card ul {
+    list-style: none;
+    padding: 0;
+  }
+  
